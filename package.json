@@ -1,0 +1,23 @@
+{
+  "name": "10print",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "[![10 print](https://i3.ytimg.com/vi/m9joBLOZVEo/hqdefault.jpg)](https://youtu.be/m9joBLOZVEo)",
+  "main": "10print.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbranas/10print.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbranas/10print/issues"
+  },
+  "homepage": "https://github.com/cbranas/10print#readme",
+  "dependencies": {
+    "string-width": "^5.0.0"
+  }
+}
